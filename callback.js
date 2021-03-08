@@ -24,7 +24,7 @@ function countdown() {
                   setTimeout(() => {
                     h2.textContent = "1";
                     setTimeout(() => {
-                      h2.setAttribute("style", "font-size:80px;font-style:italic");
+                      h2.setAttribute("style", "font-size:80px");
                       h2.textContent = "Happy Women's Day";
                     }, 10000);
                   }, 9000);
