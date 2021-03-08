@@ -1,5 +1,6 @@
 let div = document.querySelector("#container");
 let h2 = document.createElement("h2");
+h2.setAttribute("class", "col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12");
 div.append(h2);
 h2.textContent = "10";
 
