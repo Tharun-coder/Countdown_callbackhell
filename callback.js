@@ -24,7 +24,7 @@ function countdown() {
                     h2.textContent = "1";
                     setTimeout(() => {
                       h2.setAttribute("style", "font-size:100px");
-                      h2.textContent = "Happy Independence Day";
+                      h2.textContent = "Happy Women's Day";
                     }, 10000);
                   }, 9000);
                 }, 8000);
